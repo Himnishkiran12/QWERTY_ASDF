@@ -1,0 +1,13 @@
+.body_backgorund {
+    background-image: url(bday-541.gif);
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+    border-width: 40px;
+    border-style: ridge;
+    background-color: aliceblue;
+    border-color: red;
+    background-image: url("uuuu.jpg");
+}
